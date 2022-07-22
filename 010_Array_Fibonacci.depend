@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1646044690 source:c:\users\jakub\documents\010_array_fibonacci\main.cpp
+	<iostream>
+	<iomanip>
+
